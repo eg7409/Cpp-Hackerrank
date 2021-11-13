@@ -8,6 +8,7 @@ using namespace std;
 
 int main() {
     /* Enter your code here. Read input from STDIN. Print output to STDOUT */   
+    
     int a;
     cin>>a;
     int arr[a];
